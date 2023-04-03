@@ -15,7 +15,7 @@ namespace Calculator
     // To allow this Web Service to be called from script, using ASP.NET AJAX, uncomment the following line. 
     // [System.Web.Script.Services.ScriptService]
     
-    public class AbacoService : System.Web.Services.WebService
+    public class abacoService : System.Web.Services.WebService
     {
 
         [WebMethod]
